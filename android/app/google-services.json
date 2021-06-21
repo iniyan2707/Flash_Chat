@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "121179555545",
+    "project_id": "flash-chat-35ee5",
+    "storage_bucket": "flash-chat-35ee5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:121179555545:android:10cf5480441a2dc8ad60c8",
+        "android_client_info": {
+          "package_name": "com.iniyan.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "121179555545-14uneg17subi8r488jfd9nf4d20bp6hf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3T57iLLI1S3MjIgn4OW_qyoun6Ls3row"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "121179555545-14uneg17subi8r488jfd9nf4d20bp6hf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
